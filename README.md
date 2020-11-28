@@ -1,2 +1,2 @@
 # AulasDeGitCursoEmVideo
- Estudos de  Github
+ Estudos de  Github com o professor Gustavo Guanabara
